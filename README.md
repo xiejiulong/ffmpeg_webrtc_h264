@@ -1,6 +1,13 @@
-# ffmpeg_webrtc_h264
-webrtc使用教程；最新版本ffmpeg 4.0 + x264编解码教程；windows版本ffmpeg x264编译教程； 
-教程中使用的Qt5是5.13.2版本。
+# 说明
+### webrtc使用教程
+	包括jitter buffer等
+	
+### 最新版本ffmpeg 4.0 + x264编解码教程；
+	ffmpeg 4.0 编译、x264编译
+	
+### 教程中使用的Qt5是5.13.2版本；
+
+### 设备（音视）枚举
 
 
 ## 示例
